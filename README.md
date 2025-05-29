@@ -10,7 +10,7 @@ To address missing values in the profit column of the given dataset, I implement
 Linear regression was used to forecast Q1 2025 profit [Profit_forecast_plot.png](./Profit_forecast_plot.png)
 
 ## Key countries
-To highlight the countries with the highest and lowest contributions to the business’s annual profit, another visualiation was created [Key_countries_plot.png](./Key_countries_plot.png). Colour coding was used for quick comprehension.. Colour coding was used for quick comprehension.
+To highlight the countries with the highest and lowest contributions to the business’s annual profit, another visualiation was created [Key_countries_plot.png](./Key_countries_plot.png). Colour coding was used for quick comprehension.
 
 ## Recommended strategies
 Finally, strategic recommendations were identified: 
