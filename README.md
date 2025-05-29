@@ -1,7 +1,7 @@
 # Project on  Business Profit Analysis, Forecast & Visualisation
 
 ## Overview
-In this project, a dataset on business transactions in 2024 was given and I was tasked to analyse it and suggest recommendations to increase profitability in Q1 2025, using effective data visualisations. All tasks were performed on Microsoft Excel.
+In this project, a dataset on business transactions in 2024 was given and I was tasked to analyse it and suggest recommendations to increase profitability in Q1 2025, using effective data visualisations. All tasks were performed on Microsoft Excel. This repository shows some key visualisations created in this project.
 
 ## Handling missing data
 To address missing values in the profit column of the given dataset, I implemented linear regression to predict monthly profit of the same product. I created a visualisation [Missing_data_imputation_plot.png](./Missing_data_imputation_plot.png) to communicate this imputation method, using matching colours for pieces of information that should be read together.
