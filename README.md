@@ -14,7 +14,8 @@ To highlight the countries with the highest and lowest contributions to the busi
 
 ## Recommended strategies
 Finally, strategic recommendations were identified: 
-- mitigate projected declines in large markets,
-- anticipate and leverage the growth of an emerging market, and
-- maintaining sales in minor markets which were collectively responsible for nearly half of total annual profit.
-- For this, a visualisation for the top markets and an emerging market was first shown [Recommendation_plot_1.png](./Recommendation_plot_1.png). Following this, another visualisation was shown where the minor markets were added [Recommendation_plot_2.png](./Recommendation_plot_2.png). The colour of top and emerging markets was lightened to shift the visual attention to the minor markets without losing the comparison.
+- Mitigate projected declines in large markets,
+- Anticipate and leverage the growth of an emerging market, and
+- Maintain sales in minor markets which were collectively responsible for nearly half of total annual profit.
+
+For this, a visualisation for the top markets and an emerging market was first shown [Recommendation_plot_1.png](./Recommendation_plot_1.png). Following this, another visualisation was shown where the minor markets were added [Recommendation_plot_2.png](./Recommendation_plot_2.png). The colour of top and emerging markets was lightened to shift the visual attention to the minor markets without losing the comparison.
